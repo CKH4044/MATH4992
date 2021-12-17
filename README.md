@@ -1,7 +1,7 @@
 # MATH4992
 
 There are two pdf files for two main algorithms Merge_Stego and Extract_Stego mentioned in the report. 
-Feel free to check them if you want to know about the details of these two algorithms
+Feel free to check for them if you want to know about the details of these two algorithms
 
 Also,
 There are two zip files. 
